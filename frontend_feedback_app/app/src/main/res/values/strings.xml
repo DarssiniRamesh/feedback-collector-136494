@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Frontend Feedback App</string>
+    <string name="app_title">Share your feedback</string>
+    <string name="hint_name">Your name</string>
+    <string name="hint_feedback">Your feedback</string>
+    <string name="action_submit">Submit feedback</string>
+    <string name="section_feedbacks">Recent feedback</string>
+    <string name="error_required_fields">Please fill in both name and feedback.</string>
+    <string name="success_submitted">Feedback submitted</string>
+</resources>
